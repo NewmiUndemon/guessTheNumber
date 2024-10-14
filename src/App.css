@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(48, 54, 59);
+  user-select: none;
+}
+
+.stuff {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  color: rgb(107, 107, 107);
+}
